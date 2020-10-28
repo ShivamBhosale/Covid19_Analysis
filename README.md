@@ -3,4 +3,4 @@ In this repostitory data from 'https://data.humdata.org/dataset/novel-coronaviru
 <br>
 Latest datasets can be downloaded using the above mentioned link.
 <br>
-The datsets contain records upto <b>27-Oct-2020</b>
+The datsets contain records upto <b>27-Oct-2020.</b>
